@@ -1,6 +1,6 @@
 # Paint On Image
 
-A React-based web application that allows users to paint on images and generate masks. Built with React and Tailwind CSS.
+A React-based web application that allows users to paint on images and generate masks. Built with React and Tailwind CSS. Use this to edit PC for college😂
 
 ## Features
 - Image upload with drag & drop support
