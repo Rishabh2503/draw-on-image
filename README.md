@@ -20,7 +20,7 @@ A React-based web application that allows users to paint on images and generate 
 1. Clone and install dependencies:
 
 ```bash
-git clone <repository-url>
+git clone url
 cd image-inpainting
 npm install   
 ```
@@ -32,6 +32,7 @@ npm run dev
 ```
 
 The application will be available at `http://localhost:5173`
+## Demo Link - https://draw-on-image-phi.vercel.app/
 
 ## Development Challenges & Solutions
 
